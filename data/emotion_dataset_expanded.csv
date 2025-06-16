@@ -1,0 +1,502 @@
+text,emotion
+I feel so lonely and empty.,sad
+What a beautiful day!,happy
+I'm really angry right now.,angry
+I don't know what's going to happen.,fear
+"I'm fine, nothing special.",neutral
+I just got a promotion at work!,happy
+Why did they lie to me?,angry
+My heart is broken.,sad
+That movie scared me a lot.,fear
+It's just a normal day.,neutral
+I can’t stop crying.,sad
+I’m so grateful for my friends.,happy
+They never listen to me!,angry
+I’m worried about my future.,fear
+"Meh, it’s whatever.",neutral
+I feel abandoned and lost.,sad
+I’m smiling so hard right now.,happy
+I want to break something.,angry
+This is terrifying!,fear
+Nothing new to report.,neutral
+He left me and I’m devastated.,sad
+I’m finally going on vacation!,happy
+They don’t respect me at all.,angry
+"I can’t sleep, I’m too anxious.",fear
+Just another regular evening.,neutral
+Life feels meaningless.,sad
+I’m dancing in my room!,happy
+I’m done with this nonsense!,angry
+I feel unsafe in my neighborhood.,fear
+It’s neither good nor bad.,neutral
+Tears won’t stop coming.,sad
+Best day of my life!,happy
+They make me so mad!,angry
+I’m afraid to speak up.,fear
+"Same thing, different day.",neutral
+Nobody cares about me.,sad
+Everything is working out!,happy
+I hate how they treat me.,angry
+I’m panicking right now.,fear
+I feel so indifferent.,neutral
+I lost someone important to me.,sad
+Got a hug from my little brother.,happy
+I want to scream!,angry
+I feel nervous and unsettled.,fear
+It’s a quiet night.,neutral
+Feeling heartbroken and betrayed.,sad
+I just finished my favorite book!,happy
+My patience is running out.,angry
+That nightmare was horrible.,fear
+"I'm just here, doing nothing.",neutral
+My pet passed away this morning.,sad
+My pet passed away this morning.,sad
+My pet passed away this morning.,sad
+I failed my final exams after studying so hard.,sad
+Everything feels so distant lately.,sad
+I moved to a new city and don’t know anyone.,sad
+I failed my final exams after studying so hard.,sad
+Everything feels so distant lately.,sad
+My best friend is ignoring me.,sad
+I failed my final exams after studying so hard.,sad
+I just got accepted into my dream college!,happy
+We’re celebrating our anniversary with a trip.,happy
+I just got accepted into my dream college!,happy
+My mom baked my favorite cake today.,happy
+My mom baked my favorite cake today.,happy
+I just got accepted into my dream college!,happy
+I just got accepted into my dream college!,happy
+My startup finally launched after months of work.,happy
+My startup finally launched after months of work.,happy
+My startup finally launched after months of work.,happy
+I got yelled at for no reason today.,angry
+My manager blamed me for something I didn’t do.,angry
+They cut in line and didn’t even apologize.,angry
+I hate being treated unfairly by people I trusted.,angry
+I’ve been waiting on this refund for 2 months.,angry
+They cut in line and didn’t even apologize.,angry
+They cut in line and didn’t even apologize.,angry
+I hate being treated unfairly by people I trusted.,angry
+They cut in line and didn’t even apologize.,angry
+I hate being treated unfairly by people I trusted.,angry
+"My visa might get rejected, and I don't know what to do.",fear
+"My visa might get rejected, and I don't know what to do.",fear
+I heard strange noises outside at night.,fear
+I’m going to speak in public for the first time.,fear
+There’s uncertainty about the company I work for.,fear
+I have a medical test coming up and I’m scared.,fear
+I’m going to speak in public for the first time.,fear
+I’m going to speak in public for the first time.,fear
+I heard strange noises outside at night.,fear
+I’m going to speak in public for the first time.,fear
+I'm scrolling through my phone without thinking.,neutral
+I did some chores and watched TV.,neutral
+I did some chores and watched TV.,neutral
+I did some chores and watched TV.,neutral
+It’s just an average Tuesday.,neutral
+I did some chores and watched TV.,neutral
+I did some chores and watched TV.,neutral
+I did some chores and watched TV.,neutral
+"Made lunch, read a little, and took a nap.",neutral
+I'm scrolling through my phone without thinking.,neutral
+I failed my final exams after studying so hard.,sad
+I failed my final exams after studying so hard.,sad
+My best friend is ignoring me.,sad
+I moved to a new city and don’t know anyone.,sad
+Everything feels so distant lately.,sad
+My best friend is ignoring me.,sad
+My best friend is ignoring me.,sad
+Everything feels so distant lately.,sad
+Everything feels so distant lately.,sad
+My pet passed away this morning.,sad
+I reconnected with an old friend and laughed for hours.,happy
+My startup finally launched after months of work.,happy
+I just got accepted into my dream college!,happy
+My startup finally launched after months of work.,happy
+My mom baked my favorite cake today.,happy
+My mom baked my favorite cake today.,happy
+I reconnected with an old friend and laughed for hours.,happy
+My startup finally launched after months of work.,happy
+I just got accepted into my dream college!,happy
+We’re celebrating our anniversary with a trip.,happy
+I’ve been waiting on this refund for 2 months.,angry
+I hate being treated unfairly by people I trusted.,angry
+My manager blamed me for something I didn’t do.,angry
+They cut in line and didn’t even apologize.,angry
+I hate being treated unfairly by people I trusted.,angry
+I’ve been waiting on this refund for 2 months.,angry
+They cut in line and didn’t even apologize.,angry
+I’ve been waiting on this refund for 2 months.,angry
+They cut in line and didn’t even apologize.,angry
+I hate being treated unfairly by people I trusted.,angry
+I have a medical test coming up and I’m scared.,fear
+I’m going to speak in public for the first time.,fear
+I’m going to speak in public for the first time.,fear
+I’m going to speak in public for the first time.,fear
+There’s uncertainty about the company I work for.,fear
+There’s uncertainty about the company I work for.,fear
+There’s uncertainty about the company I work for.,fear
+There’s uncertainty about the company I work for.,fear
+I have a medical test coming up and I’m scared.,fear
+I heard strange noises outside at night.,fear
+"Made lunch, read a little, and took a nap.",neutral
+Today went by just like any other.,neutral
+"Made lunch, read a little, and took a nap.",neutral
+It’s just an average Tuesday.,neutral
+It’s just an average Tuesday.,neutral
+It’s just an average Tuesday.,neutral
+I did some chores and watched TV.,neutral
+I did some chores and watched TV.,neutral
+"Made lunch, read a little, and took a nap.",neutral
+"Made lunch, read a little, and took a nap.",neutral
+My pet passed away this morning.,sad
+I moved to a new city and don’t know anyone.,sad
+I moved to a new city and don’t know anyone.,sad
+I moved to a new city and don’t know anyone.,sad
+Everything feels so distant lately.,sad
+My pet passed away this morning.,sad
+My pet passed away this morning.,sad
+I failed my final exams after studying so hard.,sad
+My best friend is ignoring me.,sad
+I moved to a new city and don’t know anyone.,sad
+My startup finally launched after months of work.,happy
+I reconnected with an old friend and laughed for hours.,happy
+I reconnected with an old friend and laughed for hours.,happy
+My startup finally launched after months of work.,happy
+I just got accepted into my dream college!,happy
+I reconnected with an old friend and laughed for hours.,happy
+My mom baked my favorite cake today.,happy
+I just got accepted into my dream college!,happy
+My startup finally launched after months of work.,happy
+I just got accepted into my dream college!,happy
+I hate being treated unfairly by people I trusted.,angry
+My manager blamed me for something I didn’t do.,angry
+I hate being treated unfairly by people I trusted.,angry
+I got yelled at for no reason today.,angry
+I got yelled at for no reason today.,angry
+I hate being treated unfairly by people I trusted.,angry
+They cut in line and didn’t even apologize.,angry
+I hate being treated unfairly by people I trusted.,angry
+My manager blamed me for something I didn’t do.,angry
+My manager blamed me for something I didn’t do.,angry
+"My visa might get rejected, and I don't know what to do.",fear
+There’s uncertainty about the company I work for.,fear
+I heard strange noises outside at night.,fear
+I’m going to speak in public for the first time.,fear
+I’m going to speak in public for the first time.,fear
+There’s uncertainty about the company I work for.,fear
+I have a medical test coming up and I’m scared.,fear
+I’m going to speak in public for the first time.,fear
+I’m going to speak in public for the first time.,fear
+I’m going to speak in public for the first time.,fear
+It’s just an average Tuesday.,neutral
+I'm scrolling through my phone without thinking.,neutral
+"Made lunch, read a little, and took a nap.",neutral
+"Made lunch, read a little, and took a nap.",neutral
+I'm scrolling through my phone without thinking.,neutral
+I'm scrolling through my phone without thinking.,neutral
+"Made lunch, read a little, and took a nap.",neutral
+"Made lunch, read a little, and took a nap.",neutral
+"Made lunch, read a little, and took a nap.",neutral
+Today went by just like any other.,neutral
+Everything feels so distant lately.,sad
+I moved to a new city and don’t know anyone.,sad
+My best friend is ignoring me.,sad
+My best friend is ignoring me.,sad
+I moved to a new city and don’t know anyone.,sad
+My best friend is ignoring me.,sad
+I failed my final exams after studying so hard.,sad
+I moved to a new city and don’t know anyone.,sad
+Everything feels so distant lately.,sad
+Everything feels so distant lately.,sad
+I just got accepted into my dream college!,happy
+My mom baked my favorite cake today.,happy
+My mom baked my favorite cake today.,happy
+We’re celebrating our anniversary with a trip.,happy
+We’re celebrating our anniversary with a trip.,happy
+My startup finally launched after months of work.,happy
+I reconnected with an old friend and laughed for hours.,happy
+We’re celebrating our anniversary with a trip.,happy
+We’re celebrating our anniversary with a trip.,happy
+I reconnected with an old friend and laughed for hours.,happy
+I’ve been waiting on this refund for 2 months.,angry
+They cut in line and didn’t even apologize.,angry
+They cut in line and didn’t even apologize.,angry
+My manager blamed me for something I didn’t do.,angry
+They cut in line and didn’t even apologize.,angry
+My manager blamed me for something I didn’t do.,angry
+My manager blamed me for something I didn’t do.,angry
+I hate being treated unfairly by people I trusted.,angry
+I got yelled at for no reason today.,angry
+I’ve been waiting on this refund for 2 months.,angry
+I’m going to speak in public for the first time.,fear
+I have a medical test coming up and I’m scared.,fear
+There’s uncertainty about the company I work for.,fear
+I heard strange noises outside at night.,fear
+There’s uncertainty about the company I work for.,fear
+I’m going to speak in public for the first time.,fear
+I’m going to speak in public for the first time.,fear
+I heard strange noises outside at night.,fear
+I’m going to speak in public for the first time.,fear
+I have a medical test coming up and I’m scared.,fear
+I did some chores and watched TV.,neutral
+It’s just an average Tuesday.,neutral
+It’s just an average Tuesday.,neutral
+I'm scrolling through my phone without thinking.,neutral
+"Made lunch, read a little, and took a nap.",neutral
+Today went by just like any other.,neutral
+I'm scrolling through my phone without thinking.,neutral
+Today went by just like any other.,neutral
+"Made lunch, read a little, and took a nap.",neutral
+"Made lunch, read a little, and took a nap.",neutral
+My pet passed away this morning.,sad
+I moved to a new city and don’t know anyone.,sad
+Everything feels so distant lately.,sad
+My pet passed away this morning.,sad
+Everything feels so distant lately.,sad
+I failed my final exams after studying so hard.,sad
+I moved to a new city and don’t know anyone.,sad
+My best friend is ignoring me.,sad
+I moved to a new city and don’t know anyone.,sad
+Everything feels so distant lately.,sad
+I reconnected with an old friend and laughed for hours.,happy
+I reconnected with an old friend and laughed for hours.,happy
+My startup finally launched after months of work.,happy
+I reconnected with an old friend and laughed for hours.,happy
+I reconnected with an old friend and laughed for hours.,happy
+I reconnected with an old friend and laughed for hours.,happy
+I reconnected with an old friend and laughed for hours.,happy
+My mom baked my favorite cake today.,happy
+My startup finally launched after months of work.,happy
+My startup finally launched after months of work.,happy
+I got yelled at for no reason today.,angry
+My manager blamed me for something I didn’t do.,angry
+I got yelled at for no reason today.,angry
+I hate being treated unfairly by people I trusted.,angry
+I got yelled at for no reason today.,angry
+I got yelled at for no reason today.,angry
+My manager blamed me for something I didn’t do.,angry
+They cut in line and didn’t even apologize.,angry
+I’ve been waiting on this refund for 2 months.,angry
+I got yelled at for no reason today.,angry
+I have a medical test coming up and I’m scared.,fear
+I have a medical test coming up and I’m scared.,fear
+"My visa might get rejected, and I don't know what to do.",fear
+There’s uncertainty about the company I work for.,fear
+I have a medical test coming up and I’m scared.,fear
+There’s uncertainty about the company I work for.,fear
+I heard strange noises outside at night.,fear
+I heard strange noises outside at night.,fear
+I heard strange noises outside at night.,fear
+There’s uncertainty about the company I work for.,fear
+I'm scrolling through my phone without thinking.,neutral
+It’s just an average Tuesday.,neutral
+I'm scrolling through my phone without thinking.,neutral
+"Made lunch, read a little, and took a nap.",neutral
+It’s just an average Tuesday.,neutral
+It’s just an average Tuesday.,neutral
+"Made lunch, read a little, and took a nap.",neutral
+It’s just an average Tuesday.,neutral
+I did some chores and watched TV.,neutral
+"Made lunch, read a little, and took a nap.",neutral
+My best friend is ignoring me.,sad
+Everything feels so distant lately.,sad
+Everything feels so distant lately.,sad
+I failed my final exams after studying so hard.,sad
+I moved to a new city and don’t know anyone.,sad
+My pet passed away this morning.,sad
+Everything feels so distant lately.,sad
+I failed my final exams after studying so hard.,sad
+I failed my final exams after studying so hard.,sad
+I failed my final exams after studying so hard.,sad
+I just got accepted into my dream college!,happy
+My mom baked my favorite cake today.,happy
+I reconnected with an old friend and laughed for hours.,happy
+My startup finally launched after months of work.,happy
+We’re celebrating our anniversary with a trip.,happy
+I just got accepted into my dream college!,happy
+My mom baked my favorite cake today.,happy
+I reconnected with an old friend and laughed for hours.,happy
+My startup finally launched after months of work.,happy
+My mom baked my favorite cake today.,happy
+My manager blamed me for something I didn’t do.,angry
+I hate being treated unfairly by people I trusted.,angry
+I’ve been waiting on this refund for 2 months.,angry
+I hate being treated unfairly by people I trusted.,angry
+My manager blamed me for something I didn’t do.,angry
+My manager blamed me for something I didn’t do.,angry
+I’ve been waiting on this refund for 2 months.,angry
+My manager blamed me for something I didn’t do.,angry
+They cut in line and didn’t even apologize.,angry
+I hate being treated unfairly by people I trusted.,angry
+I heard strange noises outside at night.,fear
+There’s uncertainty about the company I work for.,fear
+I heard strange noises outside at night.,fear
+I have a medical test coming up and I’m scared.,fear
+There’s uncertainty about the company I work for.,fear
+There’s uncertainty about the company I work for.,fear
+I have a medical test coming up and I’m scared.,fear
+"My visa might get rejected, and I don't know what to do.",fear
+"My visa might get rejected, and I don't know what to do.",fear
+I have a medical test coming up and I’m scared.,fear
+"Made lunch, read a little, and took a nap.",neutral
+"Made lunch, read a little, and took a nap.",neutral
+Today went by just like any other.,neutral
+I did some chores and watched TV.,neutral
+Today went by just like any other.,neutral
+It’s just an average Tuesday.,neutral
+It’s just an average Tuesday.,neutral
+"Made lunch, read a little, and took a nap.",neutral
+I did some chores and watched TV.,neutral
+"Made lunch, read a little, and took a nap.",neutral
+I failed my final exams after studying so hard.,sad
+My best friend is ignoring me.,sad
+Everything feels so distant lately.,sad
+I failed my final exams after studying so hard.,sad
+My best friend is ignoring me.,sad
+I failed my final exams after studying so hard.,sad
+I moved to a new city and don’t know anyone.,sad
+I failed my final exams after studying so hard.,sad
+I moved to a new city and don’t know anyone.,sad
+I failed my final exams after studying so hard.,sad
+I just got accepted into my dream college!,happy
+My startup finally launched after months of work.,happy
+My mom baked my favorite cake today.,happy
+I reconnected with an old friend and laughed for hours.,happy
+My startup finally launched after months of work.,happy
+My startup finally launched after months of work.,happy
+I just got accepted into my dream college!,happy
+My mom baked my favorite cake today.,happy
+My startup finally launched after months of work.,happy
+I just got accepted into my dream college!,happy
+I hate being treated unfairly by people I trusted.,angry
+I got yelled at for no reason today.,angry
+I’ve been waiting on this refund for 2 months.,angry
+My manager blamed me for something I didn’t do.,angry
+I hate being treated unfairly by people I trusted.,angry
+I hate being treated unfairly by people I trusted.,angry
+I got yelled at for no reason today.,angry
+I hate being treated unfairly by people I trusted.,angry
+I’ve been waiting on this refund for 2 months.,angry
+They cut in line and didn’t even apologize.,angry
+I’m going to speak in public for the first time.,fear
+"My visa might get rejected, and I don't know what to do.",fear
+I have a medical test coming up and I’m scared.,fear
+I have a medical test coming up and I’m scared.,fear
+"My visa might get rejected, and I don't know what to do.",fear
+I’m going to speak in public for the first time.,fear
+There’s uncertainty about the company I work for.,fear
+I’m going to speak in public for the first time.,fear
+I’m going to speak in public for the first time.,fear
+I heard strange noises outside at night.,fear
+I did some chores and watched TV.,neutral
+It’s just an average Tuesday.,neutral
+I'm scrolling through my phone without thinking.,neutral
+I did some chores and watched TV.,neutral
+Today went by just like any other.,neutral
+I'm scrolling through my phone without thinking.,neutral
+I'm scrolling through my phone without thinking.,neutral
+Today went by just like any other.,neutral
+It’s just an average Tuesday.,neutral
+I did some chores and watched TV.,neutral
+My pet passed away this morning.,sad
+My pet passed away this morning.,sad
+I moved to a new city and don’t know anyone.,sad
+My best friend is ignoring me.,sad
+I moved to a new city and don’t know anyone.,sad
+I failed my final exams after studying so hard.,sad
+I failed my final exams after studying so hard.,sad
+My pet passed away this morning.,sad
+I moved to a new city and don’t know anyone.,sad
+My pet passed away this morning.,sad
+My startup finally launched after months of work.,happy
+My startup finally launched after months of work.,happy
+My mom baked my favorite cake today.,happy
+I just got accepted into my dream college!,happy
+I just got accepted into my dream college!,happy
+My mom baked my favorite cake today.,happy
+My startup finally launched after months of work.,happy
+I reconnected with an old friend and laughed for hours.,happy
+My mom baked my favorite cake today.,happy
+My startup finally launched after months of work.,happy
+My manager blamed me for something I didn’t do.,angry
+I’ve been waiting on this refund for 2 months.,angry
+I hate being treated unfairly by people I trusted.,angry
+I got yelled at for no reason today.,angry
+I’ve been waiting on this refund for 2 months.,angry
+I’ve been waiting on this refund for 2 months.,angry
+My manager blamed me for something I didn’t do.,angry
+I’ve been waiting on this refund for 2 months.,angry
+I got yelled at for no reason today.,angry
+They cut in line and didn’t even apologize.,angry
+I’m going to speak in public for the first time.,fear
+I have a medical test coming up and I’m scared.,fear
+I’m going to speak in public for the first time.,fear
+There’s uncertainty about the company I work for.,fear
+I have a medical test coming up and I’m scared.,fear
+I have a medical test coming up and I’m scared.,fear
+"My visa might get rejected, and I don't know what to do.",fear
+I’m going to speak in public for the first time.,fear
+I have a medical test coming up and I’m scared.,fear
+I have a medical test coming up and I’m scared.,fear
+Today went by just like any other.,neutral
+Today went by just like any other.,neutral
+"Made lunch, read a little, and took a nap.",neutral
+"Made lunch, read a little, and took a nap.",neutral
+"Made lunch, read a little, and took a nap.",neutral
+I did some chores and watched TV.,neutral
+It’s just an average Tuesday.,neutral
+"Made lunch, read a little, and took a nap.",neutral
+"Made lunch, read a little, and took a nap.",neutral
+Today went by just like any other.,neutral
+My best friend is ignoring me.,sad
+My pet passed away this morning.,sad
+My pet passed away this morning.,sad
+I moved to a new city and don’t know anyone.,sad
+I failed my final exams after studying so hard.,sad
+I moved to a new city and don’t know anyone.,sad
+My pet passed away this morning.,sad
+I moved to a new city and don’t know anyone.,sad
+Everything feels so distant lately.,sad
+I failed my final exams after studying so hard.,sad
+My startup finally launched after months of work.,happy
+I just got accepted into my dream college!,happy
+We’re celebrating our anniversary with a trip.,happy
+I reconnected with an old friend and laughed for hours.,happy
+My mom baked my favorite cake today.,happy
+My startup finally launched after months of work.,happy
+My startup finally launched after months of work.,happy
+I just got accepted into my dream college!,happy
+My mom baked my favorite cake today.,happy
+My mom baked my favorite cake today.,happy
+I hate being treated unfairly by people I trusted.,angry
+I got yelled at for no reason today.,angry
+I got yelled at for no reason today.,angry
+I’ve been waiting on this refund for 2 months.,angry
+My manager blamed me for something I didn’t do.,angry
+They cut in line and didn’t even apologize.,angry
+I got yelled at for no reason today.,angry
+I hate being treated unfairly by people I trusted.,angry
+They cut in line and didn’t even apologize.,angry
+They cut in line and didn’t even apologize.,angry
+I heard strange noises outside at night.,fear
+I’m going to speak in public for the first time.,fear
+There’s uncertainty about the company I work for.,fear
+"My visa might get rejected, and I don't know what to do.",fear
+I heard strange noises outside at night.,fear
+There’s uncertainty about the company I work for.,fear
+I heard strange noises outside at night.,fear
+"My visa might get rejected, and I don't know what to do.",fear
+I have a medical test coming up and I’m scared.,fear
+"My visa might get rejected, and I don't know what to do.",fear
+I did some chores and watched TV.,neutral
+I'm scrolling through my phone without thinking.,neutral
+I'm scrolling through my phone without thinking.,neutral
+I did some chores and watched TV.,neutral
+It’s just an average Tuesday.,neutral
+"Made lunch, read a little, and took a nap.",neutral
+I did some chores and watched TV.,neutral
+It’s just an average Tuesday.,neutral
+I'm scrolling through my phone without thinking.,neutral
+Today went by just like any other.,neutral
+I just asked out my girlfriend., nervous
